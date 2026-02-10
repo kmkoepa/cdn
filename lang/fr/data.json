@@ -1,0 +1,2542 @@
+{
+	"services": [
+		{
+			"id": 1,
+			"name": "Fortnite",
+			"istoday": 1,
+			"short": "fn",
+			"gift": "V-Bucks",
+			"value1": 1000,
+			"value2": 2800,
+			"value3": 5000,
+			"startnumber": 3654,
+			"color": "#fb9f28",
+			"description": "Fortnite est un jeu massivement multijoueur en ligne développé par Epic Games qui combine tir, mécaniques de construction et gameplay battle royale où 100 joueurs s'affrontent pour être le dernier survivant sur une carte qui ne cesse de rétrécir, tout en proposant régulièrement des collaborations avec des marques populaires de divertissement et des événements saisonniers.",
+			"platforms": [
+				"Playstation",
+				"Switch",
+				"Xbox",
+				"PC",
+				"Android",
+				"iOS"
+			],
+			"comments": [
+				{
+					"id": 1,
+					"author": "NightShadow_95",
+					"stars": 5,
+					"message": "Générateur incroyable ! J'ai reçu mon [VARIABLE] instantanément. Ça vaut vraiment le coup d'essayer !",
+					"replies": []
+				},
+				{
+					"id": 2,
+					"author": "ProGamer2024",
+					"stars": 2,
+					"message": "Je n'arrive pas à le faire fonctionner... Est-ce que je fais quelque chose de mal ?",
+					"replies": [
+						{
+							"id": 1,
+							"author": "EpicSniper_X",
+							"stars": null,
+							"message": "Essaie de rafraîchir la page, ça a marché pour moi la deuxième fois !"
+						},
+						{
+							"id": 2,
+							"author": "Support Team",
+							"stars": null,
+							"message": "Assurez-vous de vider votre cache et réessayez. La plupart des utilisateurs réussissent après un rafraîchissement."
+						}
+					]
+				},
+				{
+					"id": 3,
+					"author": "DragonSlayer99",
+					"stars": 5,
+					"message": "Rapide et facile ! J'ai eu mon [VARIABLE] en quelques secondes. 10/10 je recommande !",
+					"replies": []
+				},
+				{
+					"id": 4,
+					"author": "ToxicWarrior_TTV",
+					"stars": 5,
+					"message": "Le meilleur générateur que j'ai trouvé jusqu'à présent. Super fiable !",
+					"replies": []
+				},
+				{
+					"id": 5,
+					"author": "NoobMaster_69",
+					"stars": 2,
+					"message": "Rien ne se passe quand je clique sur générer... J'ai besoin d'aide",
+					"replies": [
+						{
+							"id": 1,
+							"author": "GhostHunter_YT",
+							"stars": null,
+							"message": "J'ai eu le même problème, mais ça marche parfaitement après avoir effacé les données du navigateur. Réessaie !"
+						}
+					]
+				},
+				{
+					"id": 6,
+					"author": "CyberNinja442",
+					"stars": 5,
+					"message": "A fonctionné parfaitement du premier coup ! Je l'ai déjà partagé avec mes amis",
+					"replies": []
+				},
+				{
+					"id": 7,
+					"author": "LegendaryGamer",
+					"stars": 5,
+					"message": "Générateur rapide et fiable. Je l'ai déjà utilisé deux fois !",
+					"replies": []
+				},
+				{
+					"id": 8,
+					"author": "PixelWarrior",
+					"stars": 5,
+					"message": "Exactement ce dont j'avais besoin. Simple et efficace !",
+					"replies": []
+				},
+				{
+					"id": 9,
+					"author": "RageQuit_xD",
+					"stars": 2,
+					"message": "Le générateur semble bloqué au chargement...",
+					"replies": [
+						{
+							"id": 1,
+							"author": "Support Team",
+							"stars": null,
+							"message": "Essayez d'utiliser un autre navigateur, cela résout généralement le problème de chargement."
+						}
+					]
+				},
+				{
+					"id": 10,
+					"author": "EliteSniper420",
+					"stars": 5,
+					"message": "Générateur parfait ! Aucun problème. Merci !",
+					"replies": []
+				},
+				{
+					"id": 11,
+					"author": "GameMaster_Pro",
+					"stars": 5,
+					"message": "Processus fluide du début à la fin. Je recommande vivement !",
+					"replies": []
+				},
+				{
+					"id": 12,
+					"author": "ShadowAssassin",
+					"stars": 5,
+					"message": "Enfin un générateur qui fonctionne vraiment ! Très content",
+					"replies": []
+				},
+				{
+					"id": 13,
+					"author": "BattleKing_88",
+					"stars": 5,
+					"message": "Génération rapide, pas de délais. Exactement comme annoncé !",
+					"replies": []
+				},
+				{
+					"id": 14,
+					"author": "FortnitePro_YT",
+					"stars": 5,
+					"message": "A fonctionné comme sur des roulettes ! Je l'utiliserai certainement à nouveau",
+					"replies": []
+				},
+				{
+					"id": 15,
+					"author": "GamerGirl_2024",
+					"stars": 5,
+					"message": "Super impressionnée par la rapidité. Excellent service !",
+					"replies": []
+				},
+				{
+					"id": 16,
+					"author": "EpicGamer365",
+					"stars": 5,
+					"message": "Le meilleur générateur de [VARIABLE] qui existe ! Pas de concurrence",
+					"replies": []
+				},
+				{
+					"id": 17,
+					"author": "XxDarkLordxX",
+					"stars": 5,
+					"message": "Service absolument fantastique. Je le recommanderai à d'autres !",
+					"replies": []
+				},
+				{
+					"id": 18,
+					"author": "StreamerBTW",
+					"stars": 5,
+					"message": "Facile à utiliser et fiable. Parfait pour ce dont j'avais besoin !",
+					"replies": []
+				},
+				{
+					"id": 19,
+					"author": "ProSniper007",
+					"stars": 5,
+					"message": "Génération ultra rapide. Client très satisfait !",
+					"replies": []
+				},
+				{
+					"id": 20,
+					"author": "AimBot_King",
+					"stars": 5,
+					"message": "A parfaitement fonctionné ! Je l'utiliserai certainement à nouveau",
+					"replies": []
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Roblox",
+			"istoday": 1,
+			"short": "rb",
+			"gift": "Robux",
+			"value1": 800,
+			"value2": 1700,
+			"value3": 4500,
+			"startnumber": 2765,
+			"color": "#28da2e",
+			"platforms": [
+				"Playstation",
+				"Switch",
+				"Xbox",
+				"PC",
+				"Android",
+				"iOS"
+			],
+			"description": "Roblox est une plateforme multijoueur massive en ligne développée par Roblox Corporation qui permet aux utilisateurs de créer et de jouer à des millions de jeux créés par la communauté, combinant divers genres de gameplay, un système d'avatar personnalisable et une économie virtuelle basée sur la monnaie Robux, tout en proposant régulièrement des collaborations avec des marques populaires et des événements saisonniers",
+			"comments": [
+				{
+					"id": 1,
+					"author": "ShadowHunter_YT",
+					"stars": 5,
+					"message": "Je viens d'avoir mes [VARIABLE] ! Processus fluide, fait en quelques secondes.",
+					"replies": []
+				},
+				{
+					"id": 2,
+					"author": "GalaxyGamer_404",
+					"stars": 2,
+					"message": "Le générateur est bloqué sur l'écran de chargement... besoin d'aide",
+					"replies": [
+						{
+							"id": 1,
+							"author": "PhantomSniper",
+							"stars": null,
+							"message": "Essaie un autre navigateur, ça a marché pour moi !"
+						},
+						{
+							"id": 2,
+							"author": "Support Team",
+							"stars": null,
+							"message": "Efface ton cache et tes cookies, puis réessaie. Contacte-nous si tu as toujours des problèmes."
+						}
+					]
+				},
+				{
+					"id": 3,
+					"author": "VictoryRoyale_TTV",
+					"stars": 5,
+					"message": "Meilleur générateur de mes [VARIABLE] ! Réussi du premier coup",
+					"replies": []
+				},
+				{
+					"id": 4,
+					"author": "CyberPunk2077",
+					"stars": 5,
+					"message": "Super facile à utiliser, résultats instantanés ! Merci les gars",
+					"replies": []
+				},
+				{
+					"id": 5,
+					"author": "NoScope_Pro",
+					"stars": 2,
+					"message": "Ne fonctionne pas pour moi :( Des suggestions ?",
+					"replies": [
+						{
+							"id": 1,
+							"author": "EliteWarrior",
+							"stars": null,
+							"message": "Actualise la page et attends 30 secondes, ça a marché pour moi après ça !"
+						}
+					]
+				},
+				{
+					"id": 6,
+					"author": "DragonMaster_99",
+					"stars": 5,
+					"message": "Générateur parfait ! Je l'ai déjà utilisé trois fois",
+					"replies": []
+				},
+				{
+					"id": 7,
+					"author": "TwitchKing_",
+					"stars": 5,
+					"message": "J'ai enfin trouvé un générateur fiable ! Merci l'équipe",
+					"replies": []
+				},
+				{
+					"id": 8,
+					"author": "ZeroDeaths",
+					"stars": 5,
+					"message": "100% légitime, j'ai eu mes [VARIABLE] immédiatement",
+					"replies": []
+				},
+				{
+					"id": 9,
+					"author": "NightRider_xD",
+					"stars": 2,
+					"message": "Le bouton ne répond pas quand je clique...",
+					"replies": [
+						{
+							"id": 1,
+							"author": "Support Team",
+							"stars": null,
+							"message": "Assurez-vous d'utiliser un navigateur à jour. La plupart des utilisateurs résolvent ce problème en passant à Chrome."
+						}
+					]
+				},
+				{
+					"id": 10,
+					"author": "PixelWarrior_TV",
+					"stars": 5,
+					"message": "Rapide et fiable ! Je partage avec les membres de mon clan",
+					"replies": []
+				},
+				{
+					"id": 11,
+					"author": "StreamerBTW_",
+					"stars": 5,
+					"message": "Je l'utilise pour mes concours ! Fonctionne à chaque fois",
+					"replies": []
+				},
+				{
+					"id": 12,
+					"author": "ProGamerGirl",
+					"stars": 5,
+					"message": "Exactement ce que je cherchais ! Super rapide",
+					"replies": []
+				},
+				{
+					"id": 13,
+					"author": "FinalBoss_42",
+					"stars": 5,
+					"message": "Pas de lag, pas d'attente, juste des résultats instantanés !",
+					"replies": []
+				},
+				{
+					"id": 14,
+					"author": "RaidLeader_TTV",
+					"stars": 5,
+					"message": "Vitesse incroyable, je vais certainement réutiliser",
+					"replies": []
+				},
+				{
+					"id": 15,
+					"author": "EpicLoot_YT",
+					"stars": 5,
+					"message": "Meilleur site générateur que j'ai trouvé ! Continuez comme ça",
+					"replies": []
+				},
+				{
+					"id": 16,
+					"author": "AceSniper_",
+					"stars": 5,
+					"message": "Mon générateur de référence maintenant. Merci l'équipe !",
+					"replies": []
+				},
+				{
+					"id": 17,
+					"author": "GhostPlayer_TV",
+					"stars": 5,
+					"message": "Recommandé par un ami, je n'ai pas été déçu !",
+					"replies": []
+				},
+				{
+					"id": 18,
+					"author": "BattleQueen",
+					"stars": 5,
+					"message": "Déjà généré 5 fois, fonctionne parfaitement",
+					"replies": []
+				},
+				{
+					"id": 19,
+					"author": "LegendaryLoot",
+					"stars": 5,
+					"message": "Si content d'avoir trouvé ce générateur ! A+++",
+					"replies": []
+				},
+				{
+					"id": 20,
+					"author": "XxDarkWolfxX",
+					"stars": 5,
+					"message": "Processus rapide et facile. Je recommande fortement !",
+					"replies": []
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "PUBG Mobile",
+			"istoday": 1,
+			"short": "pubg",
+			"gift": "UC",
+			"value1": 1200,
+			"value2": 2400,
+			"value3": 6000,
+			"startnumber": 2503,
+			"color": "#dc8804",
+			"platforms": [
+				"Android",
+				"iOS"
+			],
+			"description": "PUBG Mobile est un jeu en ligne massivement multijoueur développé par Tencent Games qui offre une expérience battle royale où 100 joueurs s'affrontent pour leur survie sur diverses cartes avec des armes et des véhicules réalistes, proposant des éléments de gameplay stratégiques comme le pillage, le positionnement tactique et la coordination d'équipe, tout en offrant des mises à jour régulières, du contenu saisonnier et des collaborations avec des marques de divertissement populaires",
+			"comments": [
+				{
+					"id": 21,
+					"author": "StealthMode_x",
+					"stars": 5,
+					"message": "Je n'arrive pas à croire que c'était si facile ! [VARIABLE] reçus instantanément",
+					"replies": []
+				},
+				{
+					"id": 22,
+					"author": "MythicSlayer",
+					"stars": 2,
+					"message": "Ça ne fonctionne pas sur mobile... une aide ?",
+					"replies": [
+						{
+							"id": 1,
+							"author": "DarkKnight_88",
+							"stars": null,
+							"message": "Passez en mode bureau dans les paramètres de votre navigateur, ça a fonctionné pour moi !"
+						},
+						{
+							"id": 2,
+							"author": "Support Team",
+							"stars": null,
+							"message": "Essayez d'utiliser notre version desktop pour une meilleure compatibilité."
+						}
+					]
+				},
+				{
+					"id": 23,
+					"author": "IceQueen_TTV",
+					"stars": 5,
+					"message": "5 étoiles sans hésiter ! Mes [VARIABLE] générés en un rien de temps",
+					"replies": []
+				},
+				{
+					"id": 24,
+					"author": "RocketPlayer_",
+					"stars": 5,
+					"message": "Le générateur le plus simple que j'ai jamais utilisé. Merci !",
+					"replies": []
+				},
+				{
+					"id": 25,
+					"author": "BeastMode365",
+					"stars": 2,
+					"message": "La page se fige pendant la génération...",
+					"replies": [
+						{
+							"id": 1,
+							"author": "WizardKing",
+							"stars": null,
+							"message": "Essayez de désactiver votre bloqueur de publicités, ça a marché après !"
+						}
+					]
+				},
+				{
+					"id": 26,
+					"author": "SniperElite_YT",
+					"stars": 5,
+					"message": "Utilisé pour toute mon équipe, parfait à chaque fois !",
+					"replies": []
+				},
+				{
+					"id": 27,
+					"author": "MetaGamer_Pro",
+					"stars": 5,
+					"message": "Exactement ce dont j'avais besoin. Génération ultra rapide !",
+					"replies": []
+				},
+				{
+					"id": 28,
+					"author": "FrostByte",
+					"stars": 5,
+					"message": "Plus besoin d'attendre les [VARIABLE]. Livraison instantanée !",
+					"replies": []
+				},
+				{
+					"id": 29,
+					"author": "WraithHunter",
+					"stars": 5,
+					"message": "Fonctionne vraiment contrairement aux autres générateurs. J'adore !",
+					"replies": []
+				},
+				{
+					"id": 30,
+					"author": "SoloVictor",
+					"stars": 5,
+					"message": "Mon nouveau site générateur préféré. 10/10",
+					"replies": []
+				},
+				{
+					"id": 31,
+					"author": "CrownedKing_TTV",
+					"stars": 5,
+					"message": "Généré plusieurs fois, fonctionne parfaitement !",
+					"replies": []
+				},
+				{
+					"id": 32,
+					"author": "ValkyrieGaming",
+					"stars": 5,
+					"message": "Le meilleur générateur qui existe, sans aucun doute !",
+					"replies": []
+				},
+				{
+					"id": 33,
+					"author": "PhoenixRising",
+					"stars": 5,
+					"message": "Enfin un générateur qui tient ses promesses ! Merci l'équipe",
+					"replies": []
+				},
+				{
+					"id": 34,
+					"author": "NinjaWarrior_X",
+					"stars": 5,
+					"message": "Processus simple, résultats incroyables. Je réutiliserai !",
+					"replies": []
+				},
+				{
+					"id": 35,
+					"author": "ThunderStrike",
+					"stars": 5,
+					"message": "Je ne pourrais pas être plus content des résultats !",
+					"replies": []
+				},
+				{
+					"id": 36,
+					"author": "ShadowBlade_TV",
+					"stars": 5,
+					"message": "Meilleur que n'importe quel autre site générateur",
+					"replies": []
+				},
+				{
+					"id": 37,
+					"author": "OmegaWolf_",
+					"stars": 5,
+					"message": "Rapide et fiable. Exactement ce dont nous avons besoin !",
+					"replies": []
+				},
+				{
+					"id": 38,
+					"author": "AlphaSniper",
+					"stars": 5,
+					"message": "J'utilise maintenant ce site pour tous mes besoins en [VARIABLE]",
+					"replies": []
+				},
+				{
+					"id": 39,
+					"author": "PandaGaming",
+					"stars": 5,
+					"message": "Processus super fluide. Je recommande à 100%",
+					"replies": []
+				},
+				{
+					"id": 40,
+					"author": "DemonHunter_YT",
+					"stars": 5,
+					"message": "Le meilleur générateur que j'ai essayé cette année !",
+					"replies": []
+				}
+			]
+		},
+		{
+			"id": 4,
+			"name": "Genshin Impact",
+			"istoday": 1,
+			"short": "genshin",
+			"gift": "Genesis Crystals",
+			"value1": 980,
+			"value2": 1980,
+			"value3": 4800,
+			"startnumber": 2124,
+			"color": "#4393aa",
+			"platforms": [
+				"Playstation",
+				"PC",
+				"Android",
+				"iOS"
+			],
+			"description": "Genshin Impact est un jeu d'action RPG massivement multijoueur en ligne développé par HoYoverse qui combine l'exploration d'un monde ouvert, des mécaniques de combat élémentaires et la collection de personnages gacha dans un vaste univers fantastique appelé Teyvat, proposant des mises à jour régulières avec de nouvelles régions, personnages et quêtes scénarisées, tout en offrant un jeu multiplateforme et des expériences multijoueurs coopératives",
+			"comments": [
+				{
+					"id": 41,
+					"author": "LootLegend_TV",
+					"stars": 5,
+					"message": "[VARIABLE] générés en quelques secondes. J'adore !",
+					"replies": []
+				},
+				{
+					"id": 42,
+					"author": "ChaosKnight",
+					"stars": 2,
+					"message": "L'écran devient noir après avoir cliqué sur générer ?",
+					"replies": [
+						{
+							"id": 1,
+							"author": "VoidRunner",
+							"stars": null,
+							"message": "Attends juste 10 secondes et actualise, c'est un bug visuel !"
+						},
+						{
+							"id": 2,
+							"author": "Support Team",
+							"stars": null,
+							"message": "Essayez de désactiver les extensions de votre navigateur et réessayez."
+						}
+					]
+				},
+				{
+					"id": 43,
+					"author": "QuantumGamer",
+					"stars": 5,
+					"message": "Parfait pour mes besoins de streaming ! Merci aux développeurs",
+					"replies": []
+				},
+				{
+					"id": 44,
+					"author": "SkyWalker_YT",
+					"stars": 5,
+					"message": "Déjà utilisé deux fois aujourd'hui, parfait à chaque fois",
+					"replies": []
+				},
+				{
+					"id": 45,
+					"author": "ToxicPanda",
+					"stars": 2,
+					"message": "Affiche constamment une erreur sur mon iPhone...",
+					"replies": [
+						{
+							"id": 1,
+							"author": "CyberPro",
+							"stars": null,
+							"message": "Utilise Chrome au lieu de Safari, ça a marché instantanément pour moi !"
+						}
+					]
+				},
+				{
+					"id": 46,
+					"author": "NeonRider",
+					"stars": 5,
+					"message": "La meilleure invention depuis le pain tranché ! Super rapide",
+					"replies": []
+				},
+				{
+					"id": 47,
+					"author": "CrimsonReaper",
+					"stars": 5,
+					"message": "Enfin un générateur qui tient ses promesses !",
+					"replies": []
+				},
+				{
+					"id": 48,
+					"author": "SpectralGhost",
+					"stars": 5,
+					"message": "M'a aidé à obtenir des [VARIABLE] pour toute mon équipe",
+					"replies": []
+				},
+				{
+					"id": 49,
+					"author": "HyperKiller",
+					"stars": 5,
+					"message": "Interface épurée et résultats instantanés !",
+					"replies": []
+				},
+				{
+					"id": 50,
+					"author": "BlitzKrieg",
+					"stars": 5,
+					"message": "Pas de lag, pas d'attente, juste de l'efficacité pure",
+					"replies": []
+				},
+				{
+					"id": 51,
+					"author": "RavenQueen",
+					"stars": 5,
+					"message": "Mon générateur de [VARIABLE] favori maintenant",
+					"replies": []
+				},
+				{
+					"id": 52,
+					"author": "GlitchMaster",
+					"stars": 5,
+					"message": "Fonctionne comme par magie ! Hautement recommandé",
+					"replies": []
+				},
+				{
+					"id": 53,
+					"author": "ZeroCool",
+					"stars": 5,
+					"message": "Service rapide, fiable et sans tracas",
+					"replies": []
+				},
+				{
+					"id": 54,
+					"author": "SpartanX",
+					"stars": 5,
+					"message": "Troisième utilisation, ne déçoit jamais !",
+					"replies": []
+				},
+				{
+					"id": 55,
+					"author": "NightOwl_TTV",
+					"stars": 5,
+					"message": "A dépassé mes attentes. Je réutiliserai !",
+					"replies": []
+				},
+				{
+					"id": 56,
+					"author": "FrostBite",
+					"stars": 5,
+					"message": "Simple et efficace. Merci l'équipe !",
+					"replies": []
+				},
+				{
+					"id": 57,
+					"author": "ShadowLord",
+					"stars": 5,
+					"message": "Service brillant, livraison instantanée",
+					"replies": []
+				},
+				{
+					"id": 58,
+					"author": "DragonFury",
+					"stars": 5,
+					"message": "Recommandé par un ami, maintenant j'en suis accro !",
+					"replies": []
+				},
+				{
+					"id": 59,
+					"author": "PixelKnight",
+					"stars": 5,
+					"message": "Fonctionne mieux que n'importe quel autre générateur",
+					"replies": []
+				},
+				{
+					"id": 60,
+					"author": "ArcticWolf",
+					"stars": 5,
+					"message": "Processus super rapide ! Très satisfait",
+					"replies": []
+				}
+			]
+		},
+		{
+			"id": 5,
+			"name": "Honor of Kings",
+			"istoday": 1,
+			"short": "honrkings",
+			"gift": "Tokens",
+			"value1": 1200,
+			"value2": 2500,
+			"value3": 6000,
+			"startnumber": 2065,
+			"color": "#967042",
+			"platforms": [
+				"Android",
+				"iOS"
+			],
+			"description": "Honor of Kings est un jeu d'arène de bataille en ligne massivement multijoueur (MOBA) développé par TiMi Studio Group et Tencent Games qui propose des matchs compétitifs en 5v5 rapides avec un riche roster de héros inspirés de l'histoire et de la mythologie chinoise, combinant un gameplay stratégique en équipe, des combats basés sur les compétences et des tournois esports réguliers, tout en offrant des mises à jour saisonnières et des collaborations avec des marques culturelles populaires",
+			"comments": [
+				{
+					"id": 61,
+					"author": "VenomStrike",
+					"stars": 5,
+					"message": "Ce générateur de [VARIABLE] change complètement la donne ! Je cherchais quelque chose de fiable depuis des mois, et c'est exactement ce qu'il me fallait. Le processus est super fluide et la livraison est instantanée.",
+					"replies": []
+				},
+				{
+					"id": 62,
+					"author": "ShadowRecon",
+					"stars": 2,
+					"message": "Je reçois un message d'erreur bizarre à chaque tentative de génération. J'essaie depuis 20 minutes...",
+					"replies": [
+						{
+							"id": 1,
+							"author": "TitanSlayer",
+							"stars": null,
+							"message": "J'ai eu le même problème hier ! Essaie d'utiliser le mode navigation privée et désactive ton VPN si tu en utilises un. Ça a fonctionné instantanément pour moi."
+						},
+						{
+							"id": 2,
+							"author": "Support Team",
+							"stars": null,
+							"message": "Certains logiciels antivirus peuvent interférer avec le générateur. Essayez de le désactiver temporairement pendant la génération."
+						}
+					]
+				},
+				{
+					"id": 63,
+					"author": "MidnightHawk",
+					"stars": 5,
+					"message": "Service absolument incroyable ! J'ai généré des [VARIABLE] pour toute ma communauté de gaming sans le moindre accroc. La vitesse est irréelle, et tout a fonctionné du premier coup. Vous êtes des légendes !",
+					"replies": []
+				},
+				{
+					"id": 64,
+					"author": "PhantomGhost",
+					"stars": 5,
+					"message": "Alors que je pensais avoir essayé tous les générateurs existants, celui-ci arrive et surpasse complètement la concurrence. Ultra rapide et fiable à 100% !",
+					"replies": []
+				},
+				{
+					"id": 65,
+					"author": "FrostBlade",
+					"stars": 2,
+					"message": "La génération semble bloquée à 99%. J'attends depuis 5 minutes. Je dois redémarrer ?",
+					"replies": [
+						{
+							"id": 1,
+							"author": "CyberKnight",
+							"stars": null,
+							"message": "Ne redémarre pas ! Attends encore environ 30 secondes, il vérifie juste la génération. Le mien a fait pareil mais a parfaitement fonctionné après l'attente."
+						}
+					]
+				},
+				{
+					"id": 66,
+					"author": "WraithStalker",
+					"stars": 5,
+					"message": "En tant que créateur de contenu, j'ai besoin d'outils fiables qui fonctionnent rapidement. Ce générateur est devenu un élément essentiel de mon installation de streaming. J'ai généré des [VARIABLE] plusieurs fois sans aucun problème !",
+					"replies": []
+				},
+				{
+					"id": 67,
+					"author": "ThunderBolt_YT",
+					"stars": 5,
+					"message": "Vraiment impressionné par la fluidité de fonctionnement. Pas de pubs, pas de sondages, juste direct au but. J'ai généré assez de [VARIABLE] pour toute mon équipe en moins d'une minute !",
+					"replies": []
+				},
+				{
+					"id": 68,
+					"author": "NovaNinja",
+					"stars": 5,
+					"message": "Après m'être fait arnaquer par d'autres sites, j'étais sceptique au début. Mais ce générateur m'a prouvé que j'avais tort - livraison instantanée et fonctionne vraiment comme annoncé. Vous avez gagné un utilisateur fidèle !",
+					"replies": []
+				},
+				{
+					"id": 69,
+					"author": "DragonLord_TTV",
+					"stars": 5,
+					"message": "Utiliser ce générateur m'a fait gagner tellement de temps et évité tant de tracas. L'interface est claire, le processus est simple, et surtout, il livre vraiment ce qu'il promet.",
+					"replies": []
+				},
+				{
+					"id": 70,
+					"author": "SpecterX",
+					"stars": 5,
+					"message": "Je viens de l'utiliser pour la troisième fois cette semaine - rapide et fiable en permanence. Le fait qu'il n'y ait pas de temps d'attente ni d'étapes de vérification le rend encore meilleur. Service 10/10 !",
+					"replies": []
+				},
+				{
+					"id": 71,
+					"author": "WildCat_Gaming",
+					"stars": 5,
+					"message": "Découvert grâce à la recommandation d'un ami et je ne pourrais pas être plus heureux. J'ai généré des [VARIABLE] pour mon prochain tournoi sans aucun problème. La vitesse est absolument dingue !",
+					"replies": []
+				},
+				{
+					"id": 72,
+					"author": "SniperX_Elite",
+					"stars": 5,
+					"message": "Je joue depuis 15 ans et je n'ai jamais vu un générateur aussi efficace. Pas de lag, pas de plantages, juste de la pure performance. Je l'ai déjà partagé avec ma communauté Discord !",
+					"replies": []
+				},
+				{
+					"id": 73,
+					"author": "ChaosHunter",
+					"stars": 5,
+					"message": "C'est exactement ce dont la communauté gaming avait besoin ! Un générateur rapide et fiable sans toutes les absurdités habituelles. Je l'ai utilisé pour mes comptes principal et secondaire - résultats parfaits à chaque fois.",
+					"replies": []
+				},
+				{
+					"id": 74,
+					"author": "VortexKing",
+					"stars": 5,
+					"message": "Bravo aux développeurs pour avoir créé un générateur aussi fluide. C'est rafraîchissant de trouver quelque chose qui fonctionne vraiment comme prévu. J'ai généré des [VARIABLE] plusieurs fois maintenant avec succès !",
+					"replies": []
+				},
+				{
+					"id": 75,
+					"author": "RavenStorm",
+					"stars": 5,
+					"message": "Enfin un générateur qui respecte notre temps ! Pas de sondages sans fin ni de faux téléchargements. Juste cliquer et recevoir vos [VARIABLE]. C'est comme ça que ça devrait toujours être fait.",
+					"replies": []
+				},
+				{
+					"id": 76,
+					"author": "PhoenixFlare",
+					"stars": 5,
+					"message": "La vitesse de ce générateur est inégalée. Ce qui prenait des heures ne prend maintenant que quelques secondes. Je l'ai déjà recommandé à tout mon clan. Continuez l'excellent travail !",
+					"replies": []
+				},
+				{
+					"id": 77,
+					"author": "NightBlade",
+					"stars": 5,
+					"message": "En tant que personne ayant essayé d'innombrables générateurs auparavant, je peux affirmer avec confiance que celui-ci est le meilleur. Interface épurée, résultats instantanés, et ça marche vraiment ! Absolument incroyable.",
+					"replies": []
+				},
+				{
+					"id": 78,
+					"author": "GhostReaper",
+					"stars": 5,
+					"message": "Un grand merci à ceux qui ont développé ce générateur. Il a rendu l'obtention de [VARIABLE] tellement plus facile. Plus de temps perdu avec des sites frauduleux ou des redirections sans fin. C'est du vrai !",
+					"replies": []
+				},
+				{
+					"id": 79,
+					"author": "ToxicRider",
+					"stars": 5,
+					"message": "J'utilise ce générateur depuis une semaine et je n'ai pas eu un seul problème. La fiabilité est impressionnante, et la livraison instantanée rend le tout encore meilleur. Je le mets définitivement en favori !",
+					"replies": []
+				},
+				{
+					"id": 80,
+					"author": "ShadowBeast",
+					"stars": 5,
+					"message": "Voilà comment on fait un générateur correct ! Rapide, efficace et qui livre vraiment. Je l'ai utilisé pour plusieurs comptes maintenant et il fonctionne parfaitement à chaque fois. Absolument recommandé !",
+					"replies": []
+				}
+			]
+		},
+		{
+			"id": 6,
+			"name": "Minecraft",
+			"istoday": 1,
+			"short": "mcraft",
+			"gift": "Minecoins",
+			"value1": 1020,
+			"value2": 2200,
+			"value3": 5600,
+			"startnumber": 1621,
+			"color": "#1fb1f3",
+			"platforms": [
+				"Playstation",
+				"Switch",
+				"Xbox",
+				"PC",
+				"Android",
+				"iOS"
+			],
+			"description": "Minecraft est un jeu bac à sable massivement multijoueur développé par Mojang Studios qui offre une liberté créative illimitée à travers la construction basée sur des blocs et des mécaniques de survie dans des mondes générés de façon procédurale, proposant des modes solo et multijoueur, de vastes capacités de modding et une compatibilité multiplateforme, tout en recevant des mises à jour régulières avec du nouveau contenu, des biomes et des fonctionnalités de gameplay",
+			"comments": [
+				{
+					"id": 81,
+					"author": "NightStalker_Pro",
+					"stars": 5,
+					"message": "Je viens de streamer en direct l'utilisation de ce générateur - mes viewers ont été stupéfaits de voir à quel point il était rapide et facile d'obtenir des [VARIABLE]. Des dizaines de personnes m'ont déjà demandé le lien. Service incroyable !",
+					"replies": []
+				},
+				{
+					"id": 82,
+					"author": "LegendaryX",
+					"stars": 2,
+					"message": "La génération démarre mais expire à la fin. Le serveur est surchargé ou quoi ?",
+					"replies": [
+						{
+							"id": 1,
+							"author": "RavenBlade",
+							"stars": null,
+							"message": "Essaie de générer pendant les heures creuses. Tôt le matin a parfaitement fonctionné pour moi, il semble y avoir beaucoup de trafic le soir."
+						},
+						{
+							"id": 2,
+							"author": "Support Team",
+							"stars": null,
+							"message": "Nous mettons à niveau nos serveurs pour mieux gérer le trafic aux heures de pointe. Pour l'instant, veuillez réessayer dans quelques minutes si vous rencontrez des expirations."
+						}
+					]
+				},
+				{
+					"id": 83,
+					"author": "CrimsonElite",
+					"stars": 5,
+					"message": "J'ai utilisé ce générateur pour toute mon équipe de modérateurs Twitch - 15 personnes, toutes ont reçu leurs [VARIABLE] instantanément. La constance et la fiabilité sont inégalées. Vous avez gagné des utilisateurs à vie !",
+					"replies": []
+				},
+				{
+					"id": 84,
+					"author": "SynthWave_YT",
+					"stars": 5,
+					"message": "Je suis dans le milieu du gaming depuis plus d'une décennie et c'est de loin le générateur le plus efficace que j'ai jamais utilisé. Pas de pubs douteuses, pas de redirections sans fin, juste de la pure performance.",
+					"replies": []
+				},
+				{
+					"id": 85,
+					"author": "DarkPhoenix",
+					"stars": 2,
+					"message": "Le site ne se charge pas correctement sur mon iPad. Tous les boutons sont mal alignés...",
+					"replies": [
+						{
+							"id": 1,
+							"author": "GhostWarrior",
+							"stars": null,
+							"message": "Passe en mode paysage et demande le site version desktop dans les paramètres de ton navigateur. Ça fonctionne parfaitement après ça !"
+						}
+					]
+				},
+				{
+					"id": 86,
+					"author": "VortexQueen",
+					"stars": 5,
+					"message": "J'ai fait l'erreur d'essayer d'autres générateurs avant de trouver celui-ci. J'ai perdu des heures sur des faux sites, mais celui-ci a livré instantanément. Je ne peux que le recommander !",
+					"replies": []
+				},
+				{
+					"id": 87,
+					"author": "TacticalOps",
+					"stars": 5,
+					"message": "J'organise un tournoi de gaming la semaine prochaine et j'avais besoin de [VARIABLE] pour tous les participants. Ce générateur a géré les 50 demandes sans broncher. Absolument incroyable !",
+					"replies": []
+				},
+				{
+					"id": 88,
+					"author": "CyberDragon",
+					"stars": 5,
+					"message": "La vitesse est irréelle ! J'ai généré des [VARIABLE] pour moi et 4 amis en moins d'une minute au total. Le meilleur ? Pas d'étapes de vérification ni de sondages. Juste de l'efficacité pure.",
+					"replies": []
+				},
+				{
+					"id": 89,
+					"author": "FrostQueen",
+					"stars": 5,
+					"message": "En tant que joueuse compétitive, j'ai besoin d'outils fiables. Ce générateur est devenu mon arme secrète pour obtenir des [VARIABLE] rapidement. L'interface est claire, le processus est fluide. Parfait 10/10 !",
+					"replies": []
+				},
+				{
+					"id": 90,
+					"author": "ShadowStrike",
+					"stars": 5,
+					"message": "J'ai enfin trouvé un générateur qui ne me fait pas perdre mon temps avec des captchas sans fin et de faux boutons de téléchargement. C'est direct, rapide et ça marche vraiment. Service brillant !",
+					"replies": []
+				},
+				{
+					"id": 91,
+					"author": "NovaForce",
+					"stars": 5,
+					"message": "Toute ma communauté gaming utilise ce générateur maintenant. Il est suffisamment fiable pour que je puisse le recommander à tout le monde. Le fait qu'il soit instantané est juste la cerise sur le gâteau !",
+					"replies": []
+				},
+				{
+					"id": 92,
+					"author": "ZeroHour",
+					"stars": 5,
+					"message": "C'est ce à quoi tous les générateurs devraient aspirer. Design épuré, pas de pubs, livraison instantanée, et ça marche vraiment. Je l'utilise quotidiennement depuis une semaine, pas un seul problème !",
+					"replies": []
+				},
+				{
+					"id": 93,
+					"author": "HyperGamer",
+					"stars": 5,
+					"message": "Merci d'avoir créé un générateur aussi incroyable ! En tant que streamer quotidien, avoir une source fiable de [VARIABLE] est crucial. Cela a dépassé toutes les attentes !",
+					"replies": []
+				},
+				{
+					"id": 94,
+					"author": "ThunderWolf",
+					"stars": 5,
+					"message": "L'efficacité de ce générateur est époustouflante. Ce qui prenait des heures de recherche et d'essais sur différents sites ne prend maintenant que quelques secondes. C'est révolutionnaire pour la communauté !",
+					"replies": []
+				},
+				{
+					"id": 95,
+					"author": "PixelPrime",
+					"stars": 5,
+					"message": "Cinq générations réussies dans la dernière heure - toutes instantanées, toutes parfaites. La constance de ce service est remarquable. Ça vaut vraiment chaque seconde passée ici !",
+					"replies": []
+				},
+				{
+					"id": 96,
+					"author": "StealthOps",
+					"stars": 5,
+					"message": "J'utilise ce générateur pour tout mon clan de gaming. Plus de 30 générations réussies sans un seul échec. La fiabilité est absolument dingue !",
+					"replies": []
+				},
+				{
+					"id": 97,
+					"author": "SoulReaper",
+					"stars": 5,
+					"message": "Je viens d'utiliser le générateur pour un énorme concours de [VARIABLE] sur mon stream. Il a géré plus de 100 générations sans sourciller. Vous changez la donne les gars !",
+					"replies": []
+				},
+				{
+					"id": 98,
+					"author": "GhostFire",
+					"stars": 5,
+					"message": "J'adore comment ce générateur respecte notre temps. Pas d'attente inutile, pas de fausses barres de progression, juste des résultats instantanés. C'est exactement ce dont nous avions besoin dans la communauté gaming !",
+					"replies": []
+				},
+				{
+					"id": 99,
+					"author": "BladeRunner",
+					"stars": 5,
+					"message": "Après d'innombrables heures perdues sur d'autres sites, trouver ce générateur c'était comme découvrir de l'or. Livraison instantanée, pas de complications, juste de l'efficacité pure. Absolument parfait !",
+					"replies": []
+				},
+				{
+					"id": 100,
+					"author": "WraithKing",
+					"stars": 5,
+					"message": "De sceptique à convaincu - ce générateur a complètement changé ma vision de ce qui est possible. Ultra rapide, fiable et livre vraiment. Je ne peux pas le recommander assez !",
+					"replies": []
+				}
+			]
+		},
+		{
+			"id": 7,
+			"name": "Call of Duty Mobile",
+			"istoday": 0,
+			"short": "cod",
+			"gift": "CP",
+			"value1": 880,
+			"value2": 2400,
+			"value3": 5000,
+			"startnumber": 1423,
+			"color": "#eeba21",
+			"platforms": [
+				"Android",
+				"iOS"
+			],
+			"description": "Call of Duty Mobile est un jeu de tir en ligne massivement multijoueur développé par TiMi Studio Group et Activision qui apporte l'expérience emblématique de Call of Duty sur les appareils mobiles avec plusieurs modes de jeu, notamment le battle royale et les matchs multijoueurs traditionnels, proposant des armes réalistes, des équipements personnalisables et des mises à jour saisonnières de contenu, tout en offrant un jeu classé compétitif et des collaborations avec des marques de divertissement populaires",
+			"comments": [
+				{
+					"id": 101,
+					"author": "OmegaPhantom",
+					"stars": 5,
+					"message": "En tant que gérant d'un café gaming, ce générateur a été un véritable sauveur ! Des [VARIABLE] instantanés pour toutes nos stations. La fiabilité est absolument incroyable.",
+					"replies": []
+				},
+				{
+					"id": 102,
+					"author": "CyberPulse",
+					"stars": 2,
+					"message": "J'ai des problèmes avec l'étape de téléchargement... ça reste bloqué.",
+					"replies": [
+						{
+							"id": 1,
+							"author": "NeonBlade",
+							"stars": null,
+							"message": "Assurez-vous de ne pas utiliser de gestionnaire de téléchargement. Le téléchargement intégré au navigateur fonctionne le mieux !"
+						},
+						{
+							"id": 2,
+							"author": "Support Team",
+							"stars": null,
+							"message": "Essayez de vider votre cache de téléchargement et réessayez. Cela résout généralement tous les problèmes de téléchargement."
+						}
+					]
+				},
+				{
+					"id": 103,
+					"author": "ShadowStriker",
+					"stars": 5,
+					"message": "Utilisé pour la préparation de notre tournoi mensuel - 75 joueurs, tous ont reçu leurs [VARIABLE] sans aucun problème. Un service tout simplement exceptionnel !",
+					"replies": []
+				},
+				{
+					"id": 104,
+					"author": "QuantumRider",
+					"stars": 5,
+					"message": "L'efficacité de ce générateur est d'un autre niveau. [VARIABLE] générés pour tout mon serveur Discord en quelques minutes. Aucun autre générateur ne s'en approche !",
+					"replies": []
+				},
+				{
+					"id": 105,
+					"author": "AstralHunter",
+					"stars": 5,
+					"message": "Streamer professionnel ici - ce générateur est devenu un outil essentiel pour ma création de contenu. Fiable, rapide et toujours performant.",
+					"replies": []
+				},
+				{
+					"id": 106,
+					"author": "TempestX",
+					"stars": 5,
+					"message": "Trois mois d'utilisation régulière, pas une seule génération ratée. C'est ce type de fiabilité dont nous avons besoin dans la communauté gaming !",
+					"replies": []
+				},
+				{
+					"id": 107,
+					"author": "DragonFang",
+					"stars": 5,
+					"message": "Mon générateur de référence pour tous mes besoins en [VARIABLE]. La livraison instantanée change la donne. Plus besoin d'attendre !",
+					"replies": []
+				},
+				{
+					"id": 108,
+					"author": "VoidRunner",
+					"stars": 2,
+					"message": "Fonctionne très bien sur PC mais j'ai des problèmes sur Android...",
+					"replies": [
+						{
+							"id": 1,
+							"author": "PhantomBlade",
+							"stars": null,
+							"message": "Utilisez le navigateur Chrome sur Android et activez le mode bureau - ça fonctionne parfaitement après ça !"
+						}
+					]
+				},
+				{
+					"id": 109,
+					"author": "CrystalKnight",
+					"stars": 5,
+					"message": "Je gère plusieurs serveurs de jeux et ce générateur gère tous nos besoins en [VARIABLE] sans faille. On ne pourrait pas demander mieux !",
+					"replies": []
+				},
+				{
+					"id": 110,
+					"author": "WarpMaster",
+					"stars": 5,
+					"message": "C'est vraiment révolutionnaire. [VARIABLE] générés pour plus de 200 membres de la communauté - pas une seule plainte. Travail incroyable !",
+					"replies": []
+				},
+				{
+					"id": 111,
+					"author": "NightFury",
+					"stars": 5,
+					"message": "La vitesse et la fiabilité de ce générateur sont inégalées. Parfait pour les utilisateurs occasionnels comme pour les utilisateurs intensifs.",
+					"replies": []
+				},
+				{
+					"id": 112,
+					"author": "ThunderBolt",
+					"stars": 5,
+					"message": "En train de mettre en place un nouveau centre de gaming et ce générateur a été crucial. Livraison instantanée, pas de tracas, juste de l'efficacité pure.",
+					"replies": []
+				},
+				{
+					"id": 113,
+					"author": "StormRider",
+					"stars": 5,
+					"message": "J'ai utilisé tous les générateurs existants, mais celui-ci remporte la couronne. Rapide comme l'éclair et fiable à 100% à chaque fois.",
+					"replies": []
+				},
+				{
+					"id": 114,
+					"author": "SilentSpectre",
+					"stars": 5,
+					"message": "En tant que créateur de contenu, le temps est précieux. Ce générateur me fait gagner des heures chaque semaine. Absolument à mettre en favoris !",
+					"replies": []
+				},
+				{
+					"id": 115,
+					"author": "FrostByte",
+					"stars": 5,
+					"message": "La simplicité et l'efficacité de ce générateur sont remarquables. Pas d'étapes inutiles, juste droit au but.",
+					"replies": []
+				},
+				{
+					"id": 116,
+					"author": "PhantomX",
+					"stars": 5,
+					"message": "Gère les générations en masse comme un champion. Parfait pour les communautés de gaming et les grands groupes. Fortement recommandé !",
+					"replies": []
+				},
+				{
+					"id": 117,
+					"author": "ShadowWolf",
+					"stars": 5,
+					"message": "Je n'ai jamais connu une telle performance d'un générateur. C'est comme s'il fonctionnait avec des processeurs quantiques ou quelque chose comme ça !",
+					"replies": []
+				},
+				{
+					"id": 118,
+					"author": "NovaStrike",
+					"stars": 5,
+					"message": "[VARIABLE] reçus instantanément. Absolument phénoménal !",
+					"replies": []
+				},
+				{
+					"id": 119,
+					"author": "RavenClaw",
+					"stars": 5,
+					"message": "Du point de vue d'un joueur professionnel, c'est exactement ce dont nous avions besoin. Rapide, fiable et toujours disponible.",
+					"replies": []
+				},
+				{
+					"id": 120,
+					"author": "CyberNova",
+					"stars": 5,
+					"message": "La constance de ce générateur est impressionnante. Que ce soit pour une ou cent générations, il ne manque jamais de livrer.",
+					"replies": []
+				}
+			]
+		},
+		{
+			"id": 8,
+			"name": "Clash of Clans",
+			"istoday": 0,
+			"short": "clashc",
+			"gift": "Gems",
+			"value1": 1200,
+			"value2": 2500,
+			"value3": 6500,
+			"startnumber": 1220,
+			"color": "#d62b11",
+			"platforms": [
+				"Android",
+				"iOS"
+			],
+			"description": "Clash of Clans est un jeu de stratégie massivement multijoueur en ligne développé par Supercell qui combine la construction de base, la gestion d'armée et des mécaniques de guerre de clans compétitives, où les joueurs entraînent des troupes et attaquent d'autres bases pour rassembler des ressources et progresser, proposant des mises à jour régulières avec de nouveaux contenus, troupes et modes de jeu, tout en offrant des fonctionnalités sociales à travers des systèmes de clans et des événements mondiaux",
+			"comments": [
+				{
+					"id": 101,
+					"author": "FrostBite_TV",
+					"stars": 5,
+					"message": "De loin le générateur le plus rapide que j'ai jamais utilisé. Interface épurée et résultats instantanés !",
+					"replies": []
+				},
+				{
+					"id": 102,
+					"author": "ShadowWolf",
+					"stars": 2,
+					"message": "Je reçois constamment une erreur 404. Des solutions ?",
+					"replies": [
+						{
+							"id": 1,
+							"author": "WraithBlade",
+							"stars": null,
+							"message": "Videz le cache de votre navigateur, ça a fonctionné instantanément pour moi !"
+						},
+						{
+							"id": 2,
+							"author": "Équipe Support",
+							"stars": null,
+							"message": "Essayez d'utiliser un autre navigateur si le problème persiste."
+						}
+					]
+				},
+				{
+					"id": 103,
+					"author": "PhantomX",
+					"stars": 5,
+					"message": "Processus super rapide, pas d'étapes inutiles. Exactement ce dont nous avions besoin !",
+					"replies": []
+				},
+				{
+					"id": 104,
+					"author": "DarkKnight_YT",
+					"stars": 5,
+					"message": "C'est exactement comme ça qu'un générateur devrait fonctionner. Simple et efficace !",
+					"replies": []
+				},
+				{
+					"id": 105,
+					"author": "CyberPunk_2077",
+					"stars": 2,
+					"message": "Le site ne charge pas sur Firefox...",
+					"replies": [
+						{
+							"id": 1,
+							"author": "VoidWalker",
+							"stars": null,
+							"message": "Essayez Chrome ou Edge, ça marche parfaitement là-bas !"
+						}
+					]
+				},
+				{
+					"id": 106,
+					"author": "StormRider",
+					"stars": 5,
+					"message": "Pas de lag, pas de délais, juste des résultats instantanés. Travail impressionnant !",
+					"replies": []
+				},
+				{
+					"id": 107,
+					"author": "NightShade",
+					"stars": 5,
+					"message": "Enfin un générateur qui fonctionne vraiment comme annoncé !",
+					"replies": []
+				},
+				{
+					"id": 108,
+					"author": "ThunderBolt",
+					"stars": 5,
+					"message": "Incroyablement rapide et fiable. Le meilleur disponible !",
+					"replies": []
+				},
+				{
+					"id": 109,
+					"author": "RavenClaw",
+					"stars": 5,
+					"message": "Zéro problème, zéro temps d'attente. Exécution parfaite !",
+					"replies": []
+				},
+				{
+					"id": 110,
+					"author": "SerpentKing",
+					"stars": 5,
+					"message": "Processus étonnamment fluide du début à la fin.",
+					"replies": []
+				},
+				{
+					"id": 111,
+					"author": "NeonBlade",
+					"stars": 5,
+					"message": "J'ai enfin trouvé un générateur qui mérite d'être mis en favoris !",
+					"replies": []
+				},
+				{
+					"id": 112,
+					"author": "VortexPrime",
+					"stars": 5,
+					"message": "Simple, rapide et efficace. Rien de plus nécessaire !",
+					"replies": []
+				},
+				{
+					"id": 113,
+					"author": "CrimsonHawk",
+					"stars": 5,
+					"message": "Pas d'étapes compliquées, droit au but.",
+					"replies": []
+				},
+				{
+					"id": 114,
+					"author": "SpecterX",
+					"stars": 5,
+					"message": "Génération ultra rapide. Très impressionné !",
+					"replies": []
+				},
+				{
+					"id": 115,
+					"author": "BladeRunner_YT",
+					"stars": 5,
+					"message": "Interface épurée, résultats rapides. Exactement ce que je voulais !",
+					"replies": []
+				},
+				{
+					"id": 116,
+					"author": "PhoenixFire",
+					"stars": 5,
+					"message": "Le meilleur générateur que j'ai trouvé jusqu'à présent. Point final.",
+					"replies": []
+				},
+				{
+					"id": 117,
+					"author": "GhostRider",
+					"stars": 5,
+					"message": "Rapide, fiable et convivial. Excellent travail !",
+					"replies": []
+				},
+				{
+					"id": 118,
+					"author": "DragonSlayer",
+					"stars": 5,
+					"message": "A dépassé mes attentes de toutes les manières possibles !",
+					"replies": []
+				},
+				{
+					"id": 119,
+					"author": "ShadowBlade",
+					"stars": 5,
+					"message": "Résultats instantanés sans tracas. Incroyable !",
+					"replies": []
+				},
+				{
+					"id": 120,
+					"author": "FrostKnight",
+					"stars": 5,
+					"message": "Rapide, efficace et fiable. On ne peut pas demander plus !",
+					"replies": []
+				}
+			]
+		},
+		{
+			"id": 9,
+			"name": "Nintendo online",
+			"istoday": 0,
+			"short": "nswtch",
+			"gift": "mois",
+			"value1": 1,
+			"value2": 2,
+			"value3": 3,
+			"startnumber": 1123,
+			"color": "#e60012",
+			"platforms": [
+				"Switch"
+			],
+			"description": "Nintendo Switch Online est un service de jeu par abonnement développé par Nintendo qui donne accès au jeu multijoueur en ligne pour les titres Switch, une bibliothèque croissante de jeux NES et SNES classiques, la sauvegarde des données dans le cloud, et des avantages exclusifs aux membres, tout en proposant des ajouts réguliers à la collection de jeux rétro et des offres spéciales pour les abonnés",
+			"comments": [
+				{
+					"id": 161,
+					"author": "SilentAssassin",
+					"stars": 5,
+					"message": "Aucun problème rencontré. Fonctionnement fluide du début à la fin. Exactement ce dont nous avions besoin !",
+					"replies": []
+				},
+				{
+					"id": 162,
+					"author": "ChaosReign",
+					"stars": 2,
+					"message": "La page ne charge pas sur Microsoft Edge. Quelqu'un d'autre ?",
+					"replies": [
+						{
+							"id": 1,
+							"author": "DragonSlayer",
+							"stars": null,
+							"message": "Mettez à jour Edge vers la dernière version, ça a résolu tous les problèmes pour moi !"
+						},
+						{
+							"id": 2,
+							"author": "Équipe Support",
+							"stars": null,
+							"message": "Essayez de vider le cache de votre navigateur ou passez temporairement sur Chrome pendant que nous enquêtons sur ce problème."
+						}
+					]
+				},
+				{
+					"id": 163,
+					"author": "ToxicGhost",
+					"stars": 5,
+					"message": "Pas d'étapes ou de complications inutiles. Juste de l'efficacité pure à son meilleur !",
+					"replies": []
+				},
+				{
+					"id": 164,
+					"author": "ShadowHunter",
+					"stars": 5,
+					"message": "Traitement ultra rapide. Zéro latence, zéro temps d'attente. C'est comme ça que ça devrait être !",
+					"replies": []
+				},
+				{
+					"id": 165,
+					"author": "StormBringer",
+					"stars": 2,
+					"message": "J'ai des erreurs de délai d'attente sur mobile. Des solutions ?",
+					"replies": [
+						{
+							"id": 1,
+							"author": "NightBlade",
+							"stars": null,
+							"message": "Utilisez le mode bureau dans votre navigateur mobile, ça marche parfaitement comme ça !"
+						}
+					]
+				},
+				{
+					"id": 166,
+					"author": "PhantomMaster",
+					"stars": 5,
+					"message": "Interface simple, résultats puissants. Pas de bloatware ou de fonctionnalités inutiles. Parfait !",
+					"replies": []
+				},
+				{
+					"id": 167,
+					"author": "CrimsonBlade",
+					"stars": 5,
+					"message": "J'ai enfin trouvé quelque chose qui donne des résultats instantanés sans complications !",
+					"replies": []
+				},
+				{
+					"id": 168,
+					"author": "WildFury",
+					"stars": 5,
+					"message": "La vitesse est irréelle. Tout se traite instantanément sans aucun délai.",
+					"replies": []
+				},
+				{
+					"id": 169,
+					"author": "NeonWraith",
+					"stars": 5,
+					"message": "A dépassé toutes les attentes. Propre, rapide et incroyablement efficace !",
+					"replies": []
+				},
+				{
+					"id": 170,
+					"author": "DarkViper",
+					"stars": 5,
+					"message": "Performance exceptionnelle à chaque fois. Absolument aucune plainte !",
+					"replies": []
+				},
+				{
+					"id": 171,
+					"author": "FrostBeast",
+					"stars": 5,
+					"message": "Service haut de gamme et résultats ultra rapides. Vraiment recommandé !",
+					"replies": []
+				},
+				{
+					"id": 172,
+					"author": "SerpentLord",
+					"stars": 5,
+					"message": "Rapide, efficace et fiable. Tout fonctionne exactement comme annoncé !",
+					"replies": []
+				},
+				{
+					"id": 173,
+					"author": "VortexKnight",
+					"stars": 5,
+					"message": "Meilleure performance que j'ai vue jusqu'à présent. Aucune concurrence ne s'en approche !",
+					"replies": []
+				},
+				{
+					"id": 174,
+					"author": "RavenKnight",
+					"stars": 5,
+					"message": "Impressionné par la vitesse et la fiabilité. Je réutiliserai certainement !",
+					"replies": []
+				},
+				{
+					"id": 175,
+					"author": "BlitzPhantom",
+					"stars": 5,
+					"message": "Exécution parfaite sous tous les aspects. Je ne pourrais pas être plus satisfait !",
+					"replies": []
+				},
+				{
+					"id": 176,
+					"author": "ShadowVenom",
+					"stars": 5,
+					"message": "Enfin un générateur qui fonctionne réellement comme prévu. Plus de temps perdu !",
+					"replies": []
+				},
+				{
+					"id": 177,
+					"author": "NightFury",
+					"stars": 5,
+					"message": "L'efficacité est remarquable. Tout fonctionne parfaitement !",
+					"replies": []
+				},
+				{
+					"id": 178,
+					"author": "PhoenixStorm",
+					"stars": 5,
+					"message": "Service absolument fantastique. Rapide, fiable et convivial !",
+					"replies": []
+				},
+				{
+					"id": 179,
+					"author": "GhostBlade",
+					"stars": 5,
+					"message": "Processus incroyablement fluide. Aucun problème. Service parfait !",
+					"replies": []
+				},
+				{
+					"id": 180,
+					"author": "DragonStorm",
+					"stars": 5,
+					"message": "Vitesse et fiabilité incroyables. C'est exactement ce dont nous avions besoin !",
+					"replies": []
+				}
+			]
+		},
+		{
+			"id": 10,
+			"name": "EA Sports FC",
+			"istoday": 0,
+			"short": "fifa",
+			"gift": "FC points",
+			"value1": 1050,
+			"value2": 2200,
+			"value3": 5600,
+			"startnumber": 1126,
+			"color": "#07f569",
+			"platforms": [
+				"Playstation",
+				"Switch",
+				"Xbox",
+				"PC"
+			],
+			"description": "EA Sports FC est un jeu de simulation de football massivement multijoueur en ligne développé par Electronic Arts qui a succédé à la série FIFA, proposant des mécaniques de jeu réalistes, des licences officielles pour les équipes et les ligues, plusieurs modes de jeu dont Ultimate Team et Mode Carrière, tout en offrant des mises à jour régulières avec les statistiques des joueurs en temps réel, du contenu saisonnier et des matchs compétitifs en ligne",
+			"comments": [
+				{
+					"id": 141,
+					"author": "OmegaWolf",
+					"stars": 5,
+					"message": "Le générateur le plus rapide que j'ai jamais utilisé. Interface épurée, pas de superflu, juste de l'efficacité pure ! Mis en favoris pour une utilisation future.",
+					"replies": []
+				},
+				{
+					"id": 142,
+					"author": "QuantumBlade",
+					"stars": 2,
+					"message": "Le bouton ne répond pas sur Mac. Quelqu'un d'autre a ce problème ?",
+					"replies": [
+						{
+							"id": 1,
+							"author": "NeonKnight",
+							"stars": null,
+							"message": "Passez de Safari à Chrome, ça a résolu le problème immédiatement pour moi !"
+						},
+						{
+							"id": 2,
+							"author": "Équipe Support",
+							"stars": null,
+							"message": "Nous recommandons d'utiliser Chrome ou Firefox pour des performances optimales. Une correction pour Safari arrive bientôt."
+						}
+					]
+				},
+				{
+					"id": 143,
+					"author": "CrimsonEdge",
+					"stars": 5,
+					"message": "Enfin, un générateur qui ne perd pas de temps avec des étapes de vérification sans fin. Rapide et direct !",
+					"replies": []
+				},
+				{
+					"id": 144,
+					"author": "ShadowStriker",
+					"stars": 5,
+					"message": "La vitesse est absolument incroyable. Tout se charge instantanément, aucun ralentissement !",
+					"replies": []
+				},
+				{
+					"id": 145,
+					"author": "VoidMaster",
+					"stars": 2,
+					"message": "Le site se fige à 95%. Y a-t-il une solution ?",
+					"replies": [
+						{
+							"id": 1,
+							"author": "PhantomRider",
+							"stars": null,
+							"message": "Videz votre cache et vos cookies, puis réessayez. Parfait après ça !"
+						}
+					]
+				},
+				{
+					"id": 146,
+					"author": "FrostKing",
+					"stars": 5,
+					"message": "Simple, efficace et fiable. Pas d'étapes ou de complications inutiles. C'est comme ça que ça devrait être fait !",
+					"replies": []
+				},
+				{
+					"id": 147,
+					"author": "ThunderBeast",
+					"stars": 5,
+					"message": "Performance exceptionnelle. Le générateur fonctionne parfaitement sans accrocs. Travail impressionnant !",
+					"replies": []
+				},
+				{
+					"id": 148,
+					"author": "BlazingFury",
+					"stars": 5,
+					"message": "Zéro complication, zéro temps d'attente. Juste des résultats instantanés à chaque fois.",
+					"replies": []
+				},
+				{
+					"id": 149,
+					"author": "SpecterBlade",
+					"stars": 5,
+					"message": "La simplicité de ce générateur est ce qui le rend parfait. Pas de fonctionnalités inutiles, juste de la pure fonctionnalité.",
+					"replies": []
+				},
+				{
+					"id": 150,
+					"author": "RavenStrike",
+					"stars": 5,
+					"message": "Incroyablement rapide et efficace. Tout le processus ne prend que quelques secondes !",
+					"replies": []
+				},
+				{
+					"id": 151,
+					"author": "IronWolf",
+					"stars": 5,
+					"message": "Cela établit une nouvelle norme pour les générateurs. Tout fonctionne exactement comme prévu, sans questions.",
+					"replies": []
+				},
+				{
+					"id": 152,
+					"author": "NightStalker",
+					"stars": 5,
+					"message": "Exécution parfaite du début à la fin. Fluide, rapide et fiable à chaque fois.",
+					"replies": []
+				},
+				{
+					"id": 153,
+					"author": "PhoenixBlade",
+					"stars": 5,
+					"message": "Performance absolument impeccable. La vitesse et la fiabilité sont inégalées !",
+					"replies": []
+				},
+				{
+					"id": 154,
+					"author": "StormReaper",
+					"stars": 5,
+					"message": "J'ai enfin trouvé un générateur qui tient vraiment ses promesses. Plus de temps perdu !",
+					"replies": []
+				},
+				{
+					"id": 155,
+					"author": "DarkPulse",
+					"stars": 5,
+					"message": "L'efficacité est remarquable. Tout fonctionne parfaitement sans délais ni problèmes.",
+					"replies": []
+				},
+				{
+					"id": 156,
+					"author": "CyberPhantom",
+					"stars": 5,
+					"message": "Interface épurée, résultats rapides et performance fiable. On ne peut rien demander de plus !",
+					"replies": []
+				},
+				{
+					"id": 157,
+					"author": "ShadowPhoenix",
+					"stars": 5,
+					"message": "Ce générateur change la donne. La vitesse et la fiabilité sont simplement inégalées.",
+					"replies": []
+				},
+				{
+					"id": 158,
+					"author": "VortexBlade",
+					"stars": 5,
+					"message": "Performance incroyable et résultats instantanés. C'est exactement ce dont nous avions besoin !",
+					"replies": []
+				},
+				{
+					"id": 159,
+					"author": "GhostReaper",
+					"stars": 5,
+					"message": "Meilleur générateur que j'ai trouvé après des mois de recherche. Tout fonctionne parfaitement !",
+					"replies": []
+				},
+				{
+					"id": 160,
+					"author": "DragonFang",
+					"stars": 5,
+					"message": "La vitesse et l'efficacité sont incroyables. Définitivement à mettre en favoris pour une utilisation future !",
+					"replies": []
+				}
+			]
+		},
+		{
+			"id": 11,
+			"name": "Apex Legends",
+			"istoday": 0,
+			"short": "apex",
+			"gift": "Apex coins",
+			"value1": 1000,
+			"value2": 2150,
+			"value3": 4350,
+			"startnumber": 823,
+			"color": "#c61c28",
+			"platforms": [
+				"Playstation",
+				"Switch",
+				"Xbox",
+				"PC",
+				"Android",
+				"iOS"
+			],
+			"description": "Apex Legends est un jeu de battle royale massivement multijoueur en ligne développé par Respawn Entertainment qui combine un gameplay basé sur des héros avec des capacités uniques de personnages, des combats d'équipe rapides et des mécaniques de mouvement stratégiques dans un univers de science-fiction, proposant des mises à jour saisonnières régulières avec de nouvelles légendes, cartes et armes, tout en offrant un mode compétitif classé et des expériences multijoueurs cross-plateforme",
+			"comments": [
+				{
+					"id": 161,
+					"author": "HyperNova",
+					"stars": 5,
+					"message": "Processus incroyablement fluide. Tout fonctionne exactement comme annoncé - rapide et efficace !",
+					"replies": []
+				},
+				{
+					"id": 162,
+					"author": "ZeroCool",
+					"stars": 2,
+					"message": "J'obtiens une erreur de délai de connexion. Des solutions ?",
+					"replies": [
+						{
+							"id": 1,
+							"author": "ShadowTech",
+							"stars": null,
+							"message": "Vérifiez votre connexion internet et essayez un réseau différent. Les données mobiles ont fonctionné pour moi !"
+						},
+						{
+							"id": 2,
+							"author": "Équipe Support",
+							"stars": null,
+							"message": "Nous travaillons à améliorer la stabilité des serveurs. Réessayez dans quelques minutes si le problème persiste."
+						}
+					]
+				},
+				{
+					"id": 163,
+					"author": "BlitzKnight",
+					"stars": 5,
+					"message": "Tout dans ce générateur est parfait. Rapide, fiable et direct !",
+					"replies": []
+				},
+				{
+					"id": 164,
+					"author": "PhantomRaven",
+					"stars": 5,
+					"message": "La vitesse est époustouflante. Je n'ai jamais rien vu d'aussi efficace !",
+					"replies": []
+				},
+				{
+					"id": 165,
+					"author": "SoulReaver",
+					"stars": 2,
+					"message": "La page se rafraîchit automatiquement. Besoin d'aide.",
+					"replies": [
+						{
+							"id": 1,
+							"author": "CyberPro",
+							"stars": null,
+							"message": "Désactivez vos extensions de navigateur une par une. J'ai découvert que mon bloqueur de pub causait ça !"
+						}
+					]
+				},
+				{
+					"id": 166,
+					"author": "NightFury",
+					"stars": 5,
+					"message": "Interface épurée et résultats ultra-rapides. C'est exactement ce dont nous avions besoin !",
+					"replies": []
+				},
+				{
+					"id": 167,
+					"author": "VoidHunter",
+					"stars": 5,
+					"message": "Simplement incroyable ! Pas de complications, juste de la performance pure et de la vitesse.",
+					"replies": []
+				},
+				{
+					"id": 168,
+					"author": "ToxicBeast",
+					"stars": 5,
+					"message": "J'ai enfin trouvé un générateur qui respecte notre temps. Rapide et efficace !",
+					"replies": []
+				},
+				{
+					"id": 169,
+					"author": "FrostBlade",
+					"stars": 5,
+					"message": "La fiabilité de ce générateur est impressionnante. Fonctionne parfaitement à chaque fois !",
+					"replies": []
+				},
+				{
+					"id": 170,
+					"author": "WraithLord",
+					"stars": 5,
+					"message": "Meilleur générateur que j'ai utilisé depuis des années. Pas d'étapes inutiles ni de temps d'attente.",
+					"replies": []
+				},
+				{
+					"id": 171,
+					"author": "DarkPhantom",
+					"stars": 5,
+					"message": "C'est de l'efficacité de niveau supérieur. Tout fonctionne parfaitement !",
+					"replies": []
+				},
+				{
+					"id": 172,
+					"author": "StormShadow",
+					"stars": 5,
+					"message": "Vitesse et performance absolument incroyables. Aucun ralentissement !",
+					"replies": []
+				},
+				{
+					"id": 173,
+					"author": "CrimsonBlade",
+					"stars": 5,
+					"message": "Exécution parfaite à tous points de vue. Rapide, fiable et convivial !",
+					"replies": []
+				},
+				{
+					"id": 174,
+					"author": "NeonStrike",
+					"stars": 5,
+					"message": "Ce générateur établit une nouvelle norme en matière de vitesse et d'efficacité !",
+					"replies": []
+				},
+				{
+					"id": 175,
+					"author": "SpecterKnight",
+					"stars": 5,
+					"message": "Je n'arrive pas à croire à quel point c'est rapide. Absolument aucune complication !",
+					"replies": []
+				},
+				{
+					"id": 176,
+					"author": "RavenFrost",
+					"stars": 5,
+					"message": "La simplicité et la vitesse sont inégalées. Tout simplement parfait à tous égards !",
+					"replies": []
+				},
+				{
+					"id": 177,
+					"author": "GhostBlade",
+					"stars": 5,
+					"message": "C'est comme ça que tous les générateurs devraient fonctionner. Rapide et direct !",
+					"replies": []
+				},
+				{
+					"id": 178,
+					"author": "DragonStorm",
+					"stars": 5,
+					"message": "Performance et fiabilité exceptionnelles. On ne peut pas demander mieux !",
+					"replies": []
+				},
+				{
+					"id": 179,
+					"author": "ShadowKnight",
+					"stars": 5,
+					"message": "Processus incroyablement efficace. Tout fonctionne comme il faut !",
+					"replies": []
+				},
+				{
+					"id": 180,
+					"author": "ThunderLord",
+					"stars": 5,
+					"message": "Vitesse et fiabilité incroyables. Définitivement le meilleur du marché !",
+					"replies": []
+				}
+			]
+		},
+		{
+			"id": 12,
+			"name": "XBox Game Pass",
+			"istoday": 0,
+			"short": "xbx",
+			"gift": "mois",
+			"value1": 1,
+			"value2": 2,
+			"value3": 3,
+			"startnumber": 725,
+			"color": "#008116",
+			"platforms": [
+				"Xbox",
+				"PC"
+			],
+			"description": "Xbox Game Pass est un service de jeux par abonnement développé par Microsoft qui donne accès à une bibliothèque rotative de centaines de jeux sur les consoles Xbox, PC et appareils mobiles via le streaming cloud, proposant les sorties day-one des titres first-party de Microsoft, des ajouts réguliers de jeux tiers et des avantages exclusifs aux membres, tout en offrant le jeu multi-plateformes et la synchronisation des sauvegardes dans le cloud sur les appareils compatibles",
+			"comments": [
+				{
+					"id": 181,
+					"author": "NightFrost",
+					"stars": 5,
+					"message": "Pas de complications, pas d'attente - juste des résultats instantanés. Exactement ce qu'un générateur devrait être !",
+					"replies": []
+				},
+				{
+					"id": 182,
+					"author": "ToxicBeast",
+					"stars": 2,
+					"message": "Le site plante continuellement sur ma configuration Linux. Des conseils ?",
+					"replies": [
+						{
+							"id": 1,
+							"author": "VoidHunter",
+							"stars": null,
+							"message": "Installez la dernière version de Chrome, ça a résolu tous les plantages pour moi !"
+						},
+						{
+							"id": 2,
+							"author": "Équipe Support",
+							"stars": null,
+							"message": "Nous enquêtons sur les problèmes de compatibilité Linux. Pour l'instant, essayez d'utiliser Firefox comme solution temporaire."
+						}
+					]
+				},
+				{
+					"id": 183,
+					"author": "PhantomSight",
+					"stars": 5,
+					"message": "Interface super épurée et performance ultra-rapide. Absolument impressionné !",
+					"replies": []
+				},
+				{
+					"id": 184,
+					"author": "WraithKiller",
+					"stars": 5,
+					"message": "C'est du niveau supérieur. Tout fonctionne parfaitement !",
+					"replies": []
+				},
+				{
+					"id": 185,
+					"author": "CyberViper",
+					"stars": 2,
+					"message": "La génération s'arrête à 80%. Besoin d'aide.",
+					"replies": [
+						{
+							"id": 1,
+							"author": "StormRider",
+							"stars": null,
+							"message": "Désactivez votre VPN si vous en utilisez un - ça a fonctionné instantanément après ça !"
+						}
+					]
+				},
+				{
+					"id": 186,
+					"author": "ShadowLegend",
+					"stars": 5,
+					"message": "Vitesse et efficacité incroyables. On ne peut pas demander une meilleure performance !",
+					"replies": []
+				},
+				{
+					"id": 187,
+					"author": "FrostReaper",
+					"stars": 5,
+					"message": "J'ai enfin trouvé un générateur qui tient ses promesses. Travail incroyable !",
+					"replies": []
+				},
+				{
+					"id": 188,
+					"author": "DragonFrost",
+					"stars": 5,
+					"message": "Exécution parfaite. Simple, rapide et fiable à chaque fois !",
+					"replies": []
+				},
+				{
+					"id": 189,
+					"author": "ThunderLord",
+					"stars": 5,
+					"message": "Le meilleur générateur disponible. Aucune concurrence ne s'en approche !",
+					"replies": []
+				},
+				{
+					"id": 190,
+					"author": "VortexSoul",
+					"stars": 5,
+					"message": "La vitesse est inégalée. Tout se traite instantanément !",
+					"replies": []
+				},
+				{
+					"id": 191,
+					"author": "BladeStorm",
+					"stars": 5,
+					"message": "Expérience absolument fluide. Je l'utiliserai définitivement à nouveau !",
+					"replies": []
+				},
+				{
+					"id": 192,
+					"author": "NeonBeast",
+					"stars": 5,
+					"message": "Service de premier ordre avec résultats instantanés. Hautement recommandé !",
+					"replies": []
+				},
+				{
+					"id": 193,
+					"author": "GhostPhantom",
+					"stars": 5,
+					"message": "Performance et fiabilité exceptionnelles. Simplement parfait !",
+					"replies": []
+				},
+				{
+					"id": 194,
+					"author": "CrimsonKnight",
+					"stars": 5,
+					"message": "Rapide, efficace et convivial. Exactement ce dont nous avions besoin !",
+					"replies": []
+				},
+				{
+					"id": 195,
+					"author": "SerpentStrike",
+					"stars": 5,
+					"message": "L'efficacité est remarquable. Tout fonctionne parfaitement !",
+					"replies": []
+				},
+				{
+					"id": 196,
+					"author": "RavenLord",
+					"stars": 5,
+					"message": "Résultats ultra-rapides à chaque fois. Service parfait !",
+					"replies": []
+				},
+				{
+					"id": 197,
+					"author": "DarkKiller",
+					"stars": 5,
+					"message": "Fonctionnement fluide du début à la fin. Aucun problème !",
+					"replies": []
+				},
+				{
+					"id": 198,
+					"author": "PhoenixWrath",
+					"stars": 5,
+					"message": "Meilleure performance que j'ai vue dans un générateur. Simplement incroyable !",
+					"replies": []
+				},
+				{
+					"id": 199,
+					"author": "StealthBlade",
+					"stars": 5,
+					"message": "Rapide et fiable. Mérite définitivement d'être mis en favoris !",
+					"replies": []
+				},
+				{
+					"id": 200,
+					"author": "OmegaStrike",
+					"stars": 5,
+					"message": "Incroyablement rapide et efficace. Plus de temps perdu !",
+					"replies": []
+				}
+			]
+		},
+		{
+			"id": 13,
+			"name": "PSN Plus",
+			"istoday": 0,
+			"short": "psn",
+			"gift": "mois",
+			"value1": 1,
+			"value2": 2,
+			"value3": 3,
+			"startnumber": 642,
+			"color": "#0060aa",
+			"platforms": [
+				"Playstation"
+			],
+			"description": "PlayStation Plus est un service de jeux vidéo par abonnement développé par Sony Interactive Entertainment qui donne accès au multijoueur en ligne, à une sélection mensuelle de jeux téléchargeables, au stockage en cloud pour les sauvegardes, et à des réductions exclusives pour les membres, proposant différents niveaux d'abonnement avec des avantages supplémentaires incluant des jeux PlayStation classiques et des essais de jeux, tout en offrant des mises à jour régulières de la collection de jeux",
+			"comments": [
+				{
+					"id": 201,
+					"author": "VoidLord",
+					"stars": 5,
+					"message": "Interface épurée, résultats instantanés. J'ai enfin trouvé un générateur qui fonctionne !",
+					"replies": []
+				},
+				{
+					"id": 202,
+					"author": "ShadowByte",
+					"stars": 2,
+					"message": "Page qui ne répond pas sur iOS. Quelqu'un d'autre a ce problème ?",
+					"replies": [
+						{
+							"id": 1,
+							"author": "CrimsonWing",
+							"stars": null,
+							"message": "Forcez la fermeture de votre navigateur et rouvrez-le - ça a marché pour moi !"
+						},
+						{
+							"id": 2,
+							"author": "Support Team",
+							"stars": null,
+							"message": "Nous travaillons sur l'optimisation iOS. Essayez d'utiliser Safari en mode bureau en attendant."
+						}
+					]
+				},
+				{
+					"id": 203,
+					"author": "ThunderStrike",
+					"stars": 5,
+					"message": "C'est comme ça que tous les générateurs devraient fonctionner. Rapide et efficace !",
+					"replies": []
+				},
+				{
+					"id": 204,
+					"author": "FrostBite",
+					"stars": 5,
+					"message": "Impressionné par la vitesse. Tout fonctionne parfaitement !",
+					"replies": []
+				},
+				{
+					"id": 205,
+					"author": "NightWing",
+					"stars": 2,
+					"message": "Bloqué sur l'écran de chargement. Besoin d'aide !",
+					"replies": [
+						{
+							"id": 1,
+							"author": "DragonSlayer",
+							"stars": null,
+							"message": "Videz le cache de votre navigateur et réessayez, ça marche parfaitement après ça !"
+						}
+					]
+				},
+				{
+					"id": 206,
+					"author": "PhantomBlade",
+					"stars": 5,
+					"message": "Pas de délais, pas de complications. Performance pure !",
+					"replies": []
+				},
+				{
+					"id": 207,
+					"author": "CyberKnight",
+					"stars": 5,
+					"message": "Simple et efficace. Exactement ce dont nous avions besoin !",
+					"replies": []
+				},
+				{
+					"id": 208,
+					"author": "GhostRider",
+					"stars": 5,
+					"message": "Le meilleur service de générateur que j'ai trouvé jusqu'à présent !",
+					"replies": []
+				},
+				{
+					"id": 209,
+					"author": "RavenClaw",
+					"stars": 5,
+					"message": "Performance exceptionnelle. Aucun problème !",
+					"replies": []
+				},
+				{
+					"id": 210,
+					"author": "BlitzKrieg",
+					"stars": 5,
+					"message": "Super rapide et fiable. Je réutiliserai !",
+					"replies": []
+				},
+				{
+					"id": 211,
+					"author": "DarkPhoenix",
+					"stars": 5,
+					"message": "Exécution parfaite à chaque fois !",
+					"replies": []
+				},
+				{
+					"id": 212,
+					"author": "VortexKing",
+					"stars": 5,
+					"message": "Processus incroyablement fluide. Aucune plainte !",
+					"replies": []
+				},
+				{
+					"id": 213,
+					"author": "SerpentKing",
+					"stars": 5,
+					"message": "Résultats ultra rapides. Hautement recommandé !",
+					"replies": []
+				},
+				{
+					"id": 214,
+					"author": "WildStorm",
+					"stars": 5,
+					"message": "Vitesse et fiabilité incroyables. Parfait !",
+					"replies": []
+				},
+				{
+					"id": 215,
+					"author": "SpecterBlade",
+					"stars": 5,
+					"message": "Service haut de gamme. Fonctionne à merveille !",
+					"replies": []
+				},
+				{
+					"id": 216,
+					"author": "NeonKnight",
+					"stars": 5,
+					"message": "Efficace et fiable. Absolument parfait !",
+					"replies": []
+				},
+				{
+					"id": 217,
+					"author": "StealthOps",
+					"stars": 5,
+					"message": "Rapide et facile. Exactement ce dont j'avais besoin !",
+					"replies": []
+				},
+				{
+					"id": 218,
+					"author": "IronWolf",
+					"stars": 5,
+					"message": "Rapide et efficace. Plus d'attente !",
+					"replies": []
+				},
+				{
+					"id": 219,
+					"author": "DragonFang",
+					"stars": 5,
+					"message": "Excellent service. Fonctionne impeccablement !",
+					"replies": []
+				},
+				{
+					"id": 220,
+					"author": "ShadowReaper",
+					"stars": 5,
+					"message": "Le meilleur générateur qui existe. Point final !",
+					"replies": []
+				}
+			]
+		},
+		{
+			"id": 14,
+			"name": "Free Fire",
+			"istoday": 0,
+			"short": "ff",
+			"gift": "Diamonds",
+			"value1": 1080,
+			"value2": 2180,
+			"value3": 5600,
+			"startnumber": 642,
+			"color": "#f1bc3a",
+			"platforms": [
+				"Android",
+				"iOS"
+			],
+			"description": "Free Fire est un jeu de battle royale massivement multijoueur développé par Garena qui propose des parties rapides à 50 joueurs avec des capacités de personnages uniques, des armes personnalisables et des designs de cartes compacts optimisés pour les appareils mobiles, offrant des mises à jour régulières avec du nouveau contenu, des personnages et des événements saisonniers, tout en proposant des collaborations avec des marques de divertissement populaires et des tournois d'esport",
+			"comments": [
+				{
+					"id": 121,
+					"author": "VoidStriker",
+					"stars": 5,
+					"message": "Agréablement simple à utiliser. Pas d'étapes ou de complications inutiles !",
+					"replies": []
+				},
+				{
+					"id": 122,
+					"author": "NightHawk_TTV",
+					"stars": 2,
+					"message": "La page ne se charge pas sur mon nouveau téléphone Android. Une solution ?",
+					"replies": [
+						{
+							"id": 1,
+							"author": "IcePhoenix",
+							"stars": null,
+							"message": "Mettez à jour votre application Chrome, la dernière version fonctionne parfaitement !"
+						},
+						{
+							"id": 2,
+							"author": "Support Team",
+							"stars": null,
+							"message": "Assurez-vous d'utiliser un navigateur à jour. Le site fonctionne mieux sur les dernières versions de Chrome ou Firefox."
+						}
+					]
+				},
+				{
+					"id": 123,
+					"author": "ThunderStorm",
+					"stars": 5,
+					"message": "L'interface est claire et moderne. Tout se charge instantanément sans aucun lag ou délai. Exactement ce qu'un générateur devrait être !",
+					"replies": []
+				},
+				{
+					"id": 124,
+					"author": "ShadowBeast",
+					"stars": 5,
+					"message": "Ce site change la donne. Pure efficacité et rapidité !",
+					"replies": []
+				},
+				{
+					"id": 125,
+					"author": "CyberNinja",
+					"stars": 2,
+					"message": "J'obtiens des erreurs SSL sur la connexion sécurisée. Besoin d'aide s'il vous plaît.",
+					"replies": [
+						{
+							"id": 1,
+							"author": "RavenQueen",
+							"stars": null,
+							"message": "Vérifiez la date et l'heure de votre système - les miennes étaient incorrectes et les corriger a résolu le problème SSL !"
+						}
+					]
+				},
+				{
+					"id": 126,
+					"author": "DragonLord",
+					"stars": 5,
+					"message": "J'ai enfin trouvé quelque chose qui tient vraiment ses promesses. La vitesse est absolument incroyable !",
+					"replies": []
+				},
+				{
+					"id": 127,
+					"author": "PhantomBlade",
+					"stars": 5,
+					"message": "Pas de pubs, pas de sondages, pas de redirections - juste de la pure fonctionnalité. C'est comme ça que ça devrait être fait !",
+					"replies": []
+				},
+				{
+					"id": 128,
+					"author": "FrostBite",
+					"stars": 5,
+					"message": "Vitesse et efficacité absolument remarquables. Tout le processus prend quelques secondes, pas des minutes ou des heures comme sur d'autres sites.",
+					"replies": []
+				},
+				{
+					"id": 129,
+					"author": "StealthOps",
+					"stars": 5,
+					"message": "Résultats ultra rapides à chaque fois. Pas d'attente, pas de boucles de vérification. Simplement parfait !",
+					"replies": []
+				},
+				{
+					"id": 130,
+					"author": "WraithKing",
+					"stars": 5,
+					"message": "La simplicité est ce qui rend cela si génial. Il suffit de cliquer pour obtenir des résultats - sans complications !",
+					"replies": []
+				},
+				{
+					"id": 131,
+					"author": "NeonStrike",
+					"stars": 5,
+					"message": "C'est du niveau supérieur. L'interface est élégante, le processus est fluide, et tout fonctionne parfaitement.",
+					"replies": []
+				},
+				{
+					"id": 132,
+					"author": "SerpentStrike",
+					"stars": 5,
+					"message": "Résultats instantanés sans complications. C'est exactement ce dont tout le monde a besoin !",
+					"replies": []
+				},
+				{
+					"id": 133,
+					"author": "GhostWalker",
+					"stars": 5,
+					"message": "Après avoir essayé d'innombrables autres options, celle-ci se démarque comme la grande gagnante. Rapide, fiable et direct.",
+					"replies": []
+				},
+				{
+					"id": 134,
+					"author": "VoidKnight",
+					"stars": 5,
+					"message": "L'efficacité de ce générateur est inégalée. Tout fonctionne exactement comme il se doit.",
+					"replies": []
+				},
+				{
+					"id": 135,
+					"author": "BlitzKrieg",
+					"stars": 5,
+					"message": "Plus de temps perdu avec des processus compliqués. C'est rapide, simple et efficace !",
+					"replies": []
+				},
+				{
+					"id": 136,
+					"author": "DarkReaper",
+					"stars": 5,
+					"message": "Ce générateur établit une nouvelle norme en matière de vitesse et de fiabilité. Absolument impressionné par les performances !",
+					"replies": []
+				},
+				{
+					"id": 137,
+					"author": "PhoenixRise",
+					"stars": 5,
+					"message": "Vous ne trouverez pas de générateur plus rapide ou plus fiable ailleurs. C'est simplement le meilleur !",
+					"replies": []
+				},
+				{
+					"id": 138,
+					"author": "ShadowStorm",
+					"stars": 5,
+					"message": "Processus incroyablement fluide du début à la fin. Pas de délais, pas d'erreurs, juste la pure perfection.",
+					"replies": []
+				},
+				{
+					"id": 139,
+					"author": "ToxicBlade",
+					"stars": 5,
+					"message": "La vitesse et l'efficacité sont irréelles. Tout fonctionne parfaitement. Je mets définitivement ce site en favori !",
+					"replies": []
+				},
+				{
+					"id": 140,
+					"author": "NightBringer",
+					"stars": 5,
+					"message": "Meilleur générateur que j'ai trouvé après des mois de recherche. Les résultats instantanés sont tout simplement incroyables !",
+					"replies": []
+				}
+			]
+		}
+	]
+}
